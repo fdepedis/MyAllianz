@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAllinaz</string>
+
+    <string name="settings_menu_item_label">Load Main Page</string>
+</resources>
